@@ -1,8 +1,8 @@
 <h3 align="left">Olá pessoal 👋! Meu nome é Maria Vitória</h3>
 
-• 📚 Faço atividades semanais
-👩‍🎓 Sou aluna do Letícia
-👩‍💻 Procuro aprender linguagens de programação e tecnologia
+- 📚 Faço atividades semanais
+- 👩‍🎓 Sou aluna do Letícia
+- 👩‍💻 Procuro aprender linguagens de programação e tecnologia
 
 ###
 Fique a vontade para entrar em contato 
