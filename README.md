@@ -1,5 +1,10 @@
 <h2 align="left">Olá pessoal 👋! Meu nome é Maria Vitória</h2>
 
+- Faço programas noturno
+- Sou aluna do Letícia
+- Procuro aprender linguagens de programação e tecnologia
+
+##  Fique a vontade para entrar em contato 
 ###
 
 <div align="left">
