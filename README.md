@@ -1,4 +1,4 @@
-<h2 align="left">Olá pessoal 👋! Meu nome é Maria Vitória</h2>
+<h3 align="left">Olá pessoal 👋! Meu nome é Maria Vitória</h3>
 
 - Faço programas noturno
 - Sou aluna do Letícia
