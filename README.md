@@ -5,7 +5,7 @@
 - Procuro aprender linguagens de programação e tecnologia
 
 ###
-# Fique a vontade para entrar em contato 
+Fique a vontade para entrar em contato 
 
 <div align="left">
   <a href="https://instagram.com/themanc1ni" target="_blank">
